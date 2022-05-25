@@ -1,0 +1,17 @@
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\Practice.exe
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\Practice.deps.json
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\Practice.runtimeconfig.json
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\Practice.dll
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\ref\Practice.dll
+C:\Users\gentc\Desktop\для бублика\Practice\bin\Debug\net6.0-windows\Practice.pdb
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.csproj.AssemblyReference.cache
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.Form1.resources
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.csproj.GenerateResource.cache
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.AssemblyInfoInputs.cache
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.AssemblyInfo.cs
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.csproj.CoreCompileInputs.cache
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.dll
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\ref\Practice.dll
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.pdb
+C:\Users\gentc\Desktop\для бублика\Practice\obj\Debug\net6.0-windows\Practice.genruntimeconfig.cache
